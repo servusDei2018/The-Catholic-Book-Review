@@ -6,6 +6,7 @@ Book reviews from a Catholic perspective, with ratings and age reccomendations.
 ### Book Review
 
 #### Format
+___
 
 *Title*, by Author
 
@@ -18,6 +19,7 @@ Summary
 Notes
 
 #### Example
+___
 
 *Gnosis y la Teologia Politica* (Gnosticism and political theology), by Giuseppe Gennarini
 
