@@ -5,9 +5,7 @@ Book reviews from a Catholic perspective, with ratings and age reccomendations.
 
 ### Book Review
 
-Format:
-
-```markdown
+#### Format
 
 *Title*, by Author
 Reccomended Age Range
@@ -15,10 +13,7 @@ Genre Tags
 Summary
 Notes
 
-```
-Example:
-
-```markdown
+#### Example
 
 *Gnosis y la Teologia Politica* (Gnosticism and political theology), by Giuseppe Gennarini
 [Religious] [Historical] [Philosophical]
@@ -32,4 +27,3 @@ Notes:
 
 There's mention and talk of gender ideology in the view of the Chruch. These can be classified as mature themes as seen when the author uses real life cases. There's no swearing so that's a plus. It's a mostly historical book.
 
-```
