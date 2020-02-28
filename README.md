@@ -8,15 +8,21 @@ Book reviews from a Catholic perspective, with ratings and age reccomendations.
 #### Format
 
 *Title*, by Author
+
 Reccomended Age Range
+
 Genre Tags
+
 Summary
+
 Notes
 
 #### Example
 
 *Gnosis y la Teologia Politica* (Gnosticism and political theology), by Giuseppe Gennarini
+
 [Religious] [Historical] [Philosophical]
+
 Age 15+
 
 Summary:
