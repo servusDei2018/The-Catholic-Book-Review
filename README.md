@@ -1,5 +1,10 @@
 # The-Catholic-Book-Review
-Book reviews from a Catholic perspective, with ratings and age reccomendations.
+
+A curated, growing list of book reviews from a Catholic perspective, with ratings, notes on adult/age-oriented material, and age reccomendations. Perfect for parents looking for a good age-appropriate book for their child, or a person of any age looking for a good read.
+
+## Curation
+
+Before a book review is published, it is reviewed to make sure that it is factually correct.
 
 ## Format
 
@@ -8,24 +13,23 @@ Book reviews from a Catholic perspective, with ratings and age reccomendations.
 #### Format
 ___
 
-*Title*, by Author
+Title: *Title*
+Author: Author
+Age:
+Tags: [Tag] [Tag2] [Etc]
 
-Reccomended Age Range
+Summary:
 
-Genre Tags
+Notes:
 
-Summary
-
-Notes
-
-#### Example
 ___
+#### Example
 
-*Gnosis y la Teologia Politica* (Gnosticism and political theology), by Giuseppe Gennarini
 
-[Religious] [Historical] [Philosophical]
-
-Age 15+
+Title: *Gnosis y la Teologia Politica* (Gnosticism and political theology)
+Author: Giuseppe Gennarini
+Tags: [Religious] [Historical] [Philosophical]
+Age: 15+
 
 Summary:
 
@@ -35,3 +39,13 @@ Notes:
 
 There's mention and talk of gender ideology in the view of the Chruch. These can be classified as mature themes as seen when the author uses real life cases. There's no swearing so that's a plus. It's a mostly historical book.
 
+## Contributing
+
+Any Catholic in good standing is welcome to contribute. To contribute, navigate to the [Issues page](https://github.com/servusDei2018/The-Catholic-Book-Review/issues) and open a new issue.
+
+### Contributing Guidelines
+
+Book reviews must meet the following guidelines:
+
+- The review must be from a Catholic perspective
+- Any profanity, swearing, or otherwise adult material must be noted in the notes
