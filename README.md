@@ -4,11 +4,4 @@ A curated, growing list of book reviews from a Catholic perspective, with rating
 
 ## Contributing
 
-Any Catholic in good standing is welcome to contribute. To contribute, navigate to the [Issues page](https://github.com/servusDei2018/The-Catholic-Book-Review/issues) and open a new issue.
-
-### Contributing Guidelines
-
-Book reviews must meet the following guidelines:
-
-- The review must be from a Catholic perspective
-- Any profanity, swearing, or otherwise adult material must be noted in the notes
+See [Contributing](servusDei2018.github.io/The-Catholic-Book-Review/CONTRIBUTING.md) for information on how to contribute.
