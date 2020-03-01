@@ -2,7 +2,7 @@
 name: Add a Book Review
 about: Submit a book review
 title: '[Submission] Review for "Book Name"'
-labels: ''
+labels: submission
 assignees: servusDei2018
 
 ---
