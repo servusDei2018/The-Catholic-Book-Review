@@ -4,4 +4,4 @@ A curated, growing list of book reviews from a Catholic perspective, with rating
 
 ## Contributing
 
-See [Contributing](servusDei2018.github.io/The-Catholic-Book-Review/CONTRIBUTING.md) for information on how to contribute.
+See [Contributing](https://servusDei2018.github.io/The-Catholic-Book-Review/CONTRIBUTING.md) for information on how to contribute.
